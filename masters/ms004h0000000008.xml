@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zwfRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="testxsd.xsd">
+    <zwfInfo>
+        <master>
+            <zid>ms004h0000000008</zid>
+            <id>int</id>
+            <name>整数</name>
+            <type>intSupplement</type>
+            <notes>備考３</notes>
+            <scopeZid>ms002h0000000001</scopeZid>
+            <heirZif_list></heirZif_list>
+            <deficiencyZifZid_list>
+                <deficiencyZifZid>zih1110000000002</deficiencyZifZid>
+            </deficiencyZifZid_list>
+            <tag_list></tag_list>
+        </master>
+    </zwfInfo>
+    <zwfFileInfo>
+        <lasmsodified>
+            <accountZid>ach0000000000001</accountZid>
+            <date>20121212 12:12:12.333</date>
+        </lasmsodified>
+    </zwfFileInfo>
+</zwfRoot>
